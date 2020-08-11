@@ -9,6 +9,6 @@ int main()
   
    int a ; 
   cin>>a; 
-  cout<<"hello rajiv ";
+  cout<<"hello world ";
   return 0 ; 
 }
