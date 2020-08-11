@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1581401081 source:c:\users\6031811\desktop\c++\permutations_practice2.cpp
+	<iostream>
+	<algorithm>
+
+1581401246 source:c:\users\6031811\desktop\c++\c_practice\permutations_practice3.cpp
+	<iostream>
+	<algorithm>
+
