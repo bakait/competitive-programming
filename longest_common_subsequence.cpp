@@ -39,9 +39,6 @@ int main()
        {
           cout<<"pushing"<<s1[m-1]<<" into the stack"<<endl;  s.push(s1[m-1]);m--;n--;
        }
-       else if (l[m][n]==l[m-1][n]) m--;
-       else n--;
-   }
 
 //     cout<<endl<<"elements in array:"<<endl;
 //   for (int i=0;i<=l1;i++) {for(int j=0;j<=l2;j++) cout<<l[i][j]<<"("<<i<<","<<j<<")"<<'\t'; cout<<endl;}
@@ -54,5 +51,3 @@ int main()
    }
 
 }
-
-
